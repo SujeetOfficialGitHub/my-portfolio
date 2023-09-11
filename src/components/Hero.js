@@ -3,7 +3,7 @@ import {BsFacebook, BsLinkedin} from  'react-icons/bs'
 import {AiFillGithub} from 'react-icons/ai'
 import profileimg from '../assets/profile.png'
 import { TypeAnimation } from 'react-type-animation';
-import cvFile from '../assets/blog/blog-img1.png'
+import cvFile from '../assets/Sujeet Resume full.pdf'
 
 const Hero = () => {
     const sentences = [
