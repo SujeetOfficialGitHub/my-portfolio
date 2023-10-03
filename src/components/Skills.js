@@ -26,8 +26,6 @@ const Skills = () => {
           <ul className='skill__list'>
             <li className='skill__list-item'> <FaArrowAltCircleRight/> NodeJs</li>
             <li className='skill__list-item'> <FaArrowAltCircleRight/> Express</li>
-            <li className='skill__list-item'> <FaArrowAltCircleRight/> Sequelize</li>
-            <li className='skill__list-item'> <FaArrowAltCircleRight/> Mongoose</li>
             <li className='skill__list-item'> <FaArrowAltCircleRight/> MySQL</li>
             <li className='skill__list-item'> <FaArrowAltCircleRight/> MongoDB</li>
             <li className='skill__list-item'> <FaArrowAltCircleRight/> Python</li>
